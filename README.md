@@ -58,3 +58,5 @@ Acknowledgments
 Hat tip to anyone whose code was used  
 Inspiration  
 etc  
+
+Have removed the bug from pants
