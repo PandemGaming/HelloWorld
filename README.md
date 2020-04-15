@@ -4,8 +4,6 @@ One Paragraph of project description goes here
 # HelloWorld
 First practice repository
 
-/*![this is some alt text](Hottest_100_2019.PNG)
-
 Getting Started  
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -60,3 +58,5 @@ Inspiration
 etc  
 
 Bug removed from pants
+
+![this is some alt text](Hottest_100_2019.PNG)
